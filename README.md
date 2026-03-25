@@ -1,112 +1,59 @@
-# 🔗 Linktree Pro Clone
+# 🚀 Deepak Kumar – AI Engineer Portfolio
 
-A modern and responsive Linktree-style personal landing page built using **HTML, CSS, and JavaScript**.
-
-This project allows you to showcase all your social media links in one clean and interactive UI with dropdown support.
-
----
-
-## 🌍 Live Demo
-
-👉 [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
+Welcome to my personal portfolio website.
+This project showcases my work, skills, and professional profile as an AI Engineer.
 
 ---
 
-## ✨ Features
+## 🌐 Live Preview
 
-* 🔥 Clean & modern UI (Linktree inspired)
-* 📱 Fully responsive design
-* 🎯 Multiple social media dropdowns:
-
-  * Instagram
-  * YouTube (multiple channels)
-  * Facebook
-  * Pinterest
-  * Twitter (X)
-* 🖼️ Profile image & bio section
-* 🎨 Glassmorphism dropdown effect
-* 🚀 Smooth hover animations
-* 🔗 External links open in new tab
-* 🌐 Custom favicon support
+🔗 https://deepaktecz.github.io/deepak/
 
 ---
 
-## 📁 Project Structure
+## 💡 About
 
-```
-project/
-│── index.html
-│── style.css
-│── script.js
-│── src/
-│   ├── profile.jpg
-│   ├── favicon.png
-│   └── (social images)
-```
+* 🤖 AI Engineer passionate about building intelligent systems
+* 🚀 Focused on future technologies & automation
+* 💻 Exploring machine learning, web, and AI projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 * HTML5
-* CSS3 (Flexbox, Glass UI)
-* JavaScript (DOM manipulation)
-* Font Awesome Icons
+* CSS3
+* JavaScript
+* Font Awesome
 
 ---
 
-## 🚀 How to Use
+## 📂 Features
 
-1. Clone the repository
+* 🔗 Social links (GitHub, LinkedIn, Portfolio)
+* 📄 Resume download option
+* 🎨 Clean and responsive UI
+* ⚡ Fast and lightweight
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+---
+
+## 📁 Project Structure
+
+```
+├── index.html
+├── style.css
+├── script.js
+├── resume.pdf
+└── src/
 ```
 
-2. Open the project folder
+---
 
-3. Run `index.html` in your browser
+## 📬 Connect with Me
+
+* GitHub: https://github.com/deepaktecz
+* LinkedIn: https://www.linkedin.com/in/deepaktecz
 
 ---
 
-## ⚙️ Customization
-
-* ✏️ Update your name in `index.html`
-* 🖼️ Replace profile image in `/src`
-* 🔗 Add your social links inside `<a href="">`
-* 🎨 Modify styles in `style.css`
-
----
-
-## 🌐 Deployment
-
-You can deploy this project for free using:
-
-* GitHub Pages
-* Netlify
-* Vercel
-
----
-
-## 💡 Future Improvements
-
-* 📊 Click analytics system
-* 🌙 Dark/Light mode toggle
-  n- 🎵 Background music
-* 📈 Social stats auto-fetch (API)
-* 🛠️ Admin panel for editing links
-
----
-
-## 👤 Author
-
-**Samar Agneev**
-
-* Instagram: [https://instagram.com/samaragneev](https://instagram.com/samaragneev)
-* YouTube: [https://youtube.com/@samaragneev](https://youtube.com/@samaragneev)
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+⭐ If you like this project, consider giving it a star!
