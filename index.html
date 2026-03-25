@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Deepak Kumar | AI Engineer</title>
+
+<link rel="icon" type="image/png" href="src/favicon.png">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="wrapper">
+
+  <div class="profile">
+    <img src="src/profile.jpg" alt="Profile Picture" class="profile-pic">
+    <h1>Deepak Kumar</h1>
+
+    <!-- ✅ UPDATED BIO -->
+    <p class="bio">
+      AI Engineer 🤖 | Building intelligent systems & future tech 🚀 | Tech enthusiast
+    </p>
+
+    <div class="social">
+
+      <!-- GITHUB -->
+      <div class="dropdown">
+        <i class="fa-brands fa-github" onclick="toggleMenu('gitMenu')"></i>
+        <div id="gitMenu" class="dropdown-menu">
+          <a href="#" target="_blank">
+            <img src="src/profile.jpg">
+            <div class="channel-info">
+              <div>GitHub</div>
+              <div class="subscribers">Projects & Code</div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <!-- LINKEDIN -->
+      <div class="dropdown">
+        <i class="fa-brands fa-linkedin" onclick="toggleMenu('liMenu')"></i>
+        <div id="liMenu" class="dropdown-menu">
+          <a href="#" target="_blank">
+            <img src="src/profile.jpg">
+            <div class="channel-info">
+              <div>LinkedIn</div>
+              <div class="subscribers">Professional Profile</div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <!-- RESUME -->
+      <div class="dropdown">
+        <i class="fa-solid fa-file-lines" onclick="toggleMenu('resumeMenu')"></i>
+        <div id="resumeMenu" class="dropdown-menu">
+
+          <a href="src/Resume 4.pdf" target="_blank" download>
+              <img src="src/profile.jpg">
+            <div class="channel-info">
+              <div>Resume</div>
+              <div class="subscribers">View / Download CV</div>
+           </div>
+         </a>
+        </div>
+      </div>
+
+      <!-- PORTFOLIO -->
+      <div class="dropdown">
+        <i class="fa-solid fa-globe" onclick="toggleMenu('webMenu')"></i>
+        <div id="webMenu" class="dropdown-menu">
+          <a href="#" target="_blank">
+            <img src="src/profile.jpg">
+            <div class="channel-info">
+              <div>Portfolio</div>
+              <div class="subscribers">My Work</div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- FOLLOWERS TEXT -->
+    <div class="followers">AI & Tech 🚀</div>
+  </div>
+
+  <div class="bottom">
+    <div class="join-btn" onclick="window.open('https://www.youtube.com/@samaragneev', '_blank')">
+      View Projects
+    </div>
+    <div class="footer">Cookie Preferences • Report • Privacy</div>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
